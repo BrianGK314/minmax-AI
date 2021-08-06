@@ -1,4 +1,4 @@
- Import library
+import library
 from copy import deepcopy
 
 # Function to print the board
